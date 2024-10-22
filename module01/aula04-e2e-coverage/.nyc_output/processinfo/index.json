@@ -1,0 +1,1 @@
+{"processes":{"183cc806-6e79-4875-b140-7901c31375ef":{"parent":"902238f9-3317-40b1-b523-8098edf76534","children":[]},"902238f9-3317-40b1-b523-8098edf76534":{"parent":null,"children":["183cc806-6e79-4875-b140-7901c31375ef"]}},"files":{"/mnt/c/Users/diego/Desktop/Curso JS/module01/aula-04-e2e-coverage/src/api.js":["183cc806-6e79-4875-b140-7901c31375ef"]},"externalIds":{}}
