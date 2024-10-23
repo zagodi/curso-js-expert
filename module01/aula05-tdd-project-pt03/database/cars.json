@@ -1,0 +1,23 @@
+[
+  {
+    "id": "3eeb70f7-e49d-44af-828a-3ed1c5b83e5c",
+    "name": "Cruze",
+    "releaseYear": 2024,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "85b8e32d-87fa-4b65-91c8-82dd5b131bf8",
+    "name": "F-150",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "9c7ece45-412f-43da-ab8b-58219fec9384",
+    "name": "Durango",
+    "releaseYear": 2024,
+    "available": true,
+    "gasAvailable": true
+  }
+]
